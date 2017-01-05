@@ -58,6 +58,7 @@ p {
 .about p {
   padding-bottom: 20px;
   text-align: justify;
+    letter-spacing: 1px;
 }
 
 footer p {
@@ -111,9 +112,9 @@ a:hover {
 
 img.avatar {
   margin-bottom: 30px;
-  border-radius: 50%;
-  width: 125px;
-  height: 125px;
+  border-radius: 100%;
+  width: 250px;
+  height: 200px;
   margin-top: -30px;
 }
 
